@@ -30,9 +30,9 @@
       "name": "胜哥影视接口免费提供",
       "type": 3,
       "api": ".lib/shengge.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": ".lib/豆瓣热播.js"
     }
 
