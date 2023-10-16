@@ -1,5 +1,5 @@
 {
-  "spider": "./sgys.jar",
+  "spider": "./胜哥影视.jar",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
 "lives": [
     {
@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "胜哥影视接免费提供,
+      "name": "胜哥影视接口免费提供",
       "type": 3,
       "api": "https://download.kstore.space/download/5109/Api.js",
       "searchable": 0,
