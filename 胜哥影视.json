@@ -29,11 +29,11 @@
       "key": "js_豆瓣热播",
       "name": "胜哥影视接口免费提供",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/shengge.min.js",
+      "api": ".lib/shengge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/豆瓣.js"
+      "ext": ".lib/豆瓣热播.js"
     }
 
   ],
