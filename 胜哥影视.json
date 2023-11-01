@@ -29,11 +29,11 @@
       "key": "js_豆瓣热播",
       "name": "胜哥影视接口免费提供",
       "type": 3,
-      "api": " https://ghproxy.com/https://raw.githubusercontent.com/sgysmf/ys/main/lib/merge.min.js",
+      "api": " https://ghproxy.com/https://raw.githubusercontent.com/shengge99/ys/main/lib/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": " https://ghproxy.com/https://raw.githubusercontent.com/sgysmf/ys/main/lib/豆瓣热播.js"
+      "ext": " https://ghproxy.com/https://raw.githubusercontent.com/shengge99/ys/main/lib/豆瓣热播.js"
     }
 
   ],
